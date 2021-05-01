@@ -57,7 +57,7 @@ export default class SingleRoom extends Component {
       lng
     } = room;
     const [main, ...defaultImages] = images;
-    console.log("dasdsa");
+    console.log("dasdsa")
     return (
       <>
       <Navbar />  
